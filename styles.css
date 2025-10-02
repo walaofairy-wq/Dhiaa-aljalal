@@ -149,6 +149,7 @@ flex-direction: column;
     list-style-type: none;
     align-items: center;
     justify-content: space-between;
+    gap: 4rem;
 }
 
 .Works li {
@@ -175,7 +176,7 @@ flex-direction: column;
     }
 
     .Works li:hover {
-        transform: scale(1.5);
+        transform: none;
     }
 
 
